@@ -1,7 +1,7 @@
-## About Me <img src="https://github.com/images/mona-whisper.gif" width="48px" height="48px">
+## Hi 👋, I'm Gabriel ~ <img src="https://github.com/images/mona-whisper.gif" width="32px" height="32px">
 
 - 💻 I’m currently learning: **Web Development**_
 
 - 🇧🇷 I'm from: **Brazil**_
 
-- 🤠👍 Pseudonym: **Frammz**_
+- 🤠 Pseudonym: **Frammz**_
