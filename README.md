@@ -1,6 +1,6 @@
 # WIP!
 
-...Atualmente estudando backend com foco em **Python**.
+Atualmente estudando **Python** e **Backend Development**.
 
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif'
   width=66px
